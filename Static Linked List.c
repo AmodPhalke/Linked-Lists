@@ -1,3 +1,5 @@
+/*This is a Simple Code which Demonstrates the Static Representation of a Singly Linked List*/
+/*All the Best*/
 #include<stdio.h>
 #define MAX 5
 int main(void)
